@@ -17,3 +17,7 @@ Fontawesome library
 
  The site is fully responsive 
 
+ ![dark mode](image.png)
+ ![light mode](image-1.png)
+ ![tasks](image-2.png)
+
